@@ -1,1 +1,1 @@
-Extensive use of classes and constructor functions
+extensive use of javascript classes and constructor function
